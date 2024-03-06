@@ -7,6 +7,8 @@ teaser              : ""
 permalink           : "/about/"
 ---
 
+Contact [Thomas Guillerme](mailto:t.guillerme@sheffield.ac.uk) or [Rob MacDonald](mailto:rxmacdonald1@sheffield.ac.uk) for any query/idea/suggestion/etc.
+
 ## What is macrofun?
 
 We are a group of people meeting every two weeks in a nice and informal to chat about transferable skills and other things related to academia (**M**acroevolutionary **C**rew **R**adiating **O**utstanding **F**un and **U**nparalleled **N**onsense - Or **M**aking **ACRO**nyms is **F** **U**sless, **N**o need for one).
@@ -36,8 +38,8 @@ To be sure when is next session, [check the schedule here](/future/).
 
 ### Organising:
 
- * Thomas Guillerme (from 2023-12-01)
- * Rob McDonald (from 2023-12-01)
+ * [Thomas Guillerme](TGuillerme.github.io) (from 2023-12-01)
+ * Rob MacDonald (from 2023-12-01)
 
 ### Contributing: 
 <!-- link these to their sessions -->
