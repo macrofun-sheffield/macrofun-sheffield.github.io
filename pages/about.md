@@ -1,6 +1,6 @@
 ---
 layout              : page
-title               : "About"
+title               : "macrofun?"
 meta_title          : "About"
 subheadline         : "About macrofun"
 teaser              : ""
@@ -9,7 +9,7 @@ permalink           : "/about/"
 
 ## What is macrofun?
 
-We are a group of people meeting every two weeks in a nice and informal to chat about transferable skills and other things related to academia (Macroevolutionary Crew Radiating Outstanding Fun and Unparalleled Nonsense).
+We are a group of people meeting every two weeks in a nice and informal to chat about transferable skills and other things related to academia (**M**acroevolutionary **C**rew **R**adiating **O**utstanding **F**un and **U**nparalleled **N**onsense - Or **M**aking **ACRO**nyms is **F** **U**sless, **N**o need for one).
 
 Everyone is more than welcome to join!
 
@@ -34,5 +34,15 @@ To be sure when is next session, [check the schedule here](/future/).
 
 ## Who is macrofun?
 
- * Thomas Guillerme
- * Rob McDonald
+### Organising:
+
+ * Thomas Guillerme (from 2023-12-01)
+ * Rob McDonald (from 2023-12-01)
+
+### Contributing: 
+<!-- link these to their sessions -->
+
+ * Natalie Cooper (2024-02-19)
+ * Alain Danet (2024-02-09)
+ * Ian Sudbery (2024-01-23)
+ * Zuzanna Zagrodzka (2024-01-12)
