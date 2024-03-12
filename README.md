@@ -45,3 +45,7 @@ myname:
 ```
 
 You can fill the relevant bits like `uri` that redirects to your website or `email`.
+
+## Add a picture
+
+Simply store the picture in `images/` and call it from your post as `![Image description]({{ site.baseurl }}/images/image_file_name)`.
