@@ -1,8 +1,8 @@
 ---
+author: tguillerme
 layout: page
 title:  "Coding with ChatGPT"
 teaser: "Using ChatGPT or other LMMs for coding?"
-breadcrumb: true
 tags:
     - coding
     - discussion

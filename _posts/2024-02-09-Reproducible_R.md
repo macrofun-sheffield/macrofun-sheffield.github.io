@@ -1,5 +1,5 @@
 ---
-# author: Alain Danet
+author: adanet
 layout: page
 title:  "Reproducible R"
 teaser: "Reproducible computation at scale in R with the target package"
