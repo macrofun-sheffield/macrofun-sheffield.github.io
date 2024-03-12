@@ -28,9 +28,9 @@ $last-child-float: $opposite-direction !default;
 // @FUNCTION
 // $colNumber - Found in settings file
 // $totalColumns - Found in settings file
-@function grid-calc($colNumber, $totalColumns) {
-  @return percentage(calc($colNumber / $totalColumns));
-}
+// @function grid-calc($colNumber, $totalColumns) {
+//  @return percentage(calc($colNumber / $totalColumns));
+//}
 
 //
 // @mixins
