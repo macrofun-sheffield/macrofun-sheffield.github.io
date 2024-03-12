@@ -5,24 +5,20 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
+
 widget1:
   title: "Next session"
   url: '/future/'
-  image: widget-1-302x182.jpg
   text: 'Check out what we have planned for next sessions.'
 
 widget2:
   title: "Browse sessions"
   url: '/blog/'
-  image: widget-1-302x182.jpg
   text: 'Browse our previous sessions if you missed one.'
 
 widget3:
   title: "Join the mail list"
   url: '/join/'
-  image: widget-1-302x182.jpg
   text: 'Join the macrofun mail list to sync your calendar and get updates about future events.'
 #
 # Use the call for action to show a button on the frontpage
