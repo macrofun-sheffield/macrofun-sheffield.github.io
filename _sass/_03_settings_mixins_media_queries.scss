@@ -258,8 +258,8 @@ $opposite-direction: right !default;
 
 // We use these to control inset shadow shiny edges and depressions.
 $shiny-edge-size: 0 1px 0 !default;
-$shiny-edge-color: rgba($text-color , .5) !default;
-$shiny-edge-active-color: rgba($body-bg, .2) !default;
+$shiny-edge-color: rgba(#fff, .5) !default;
+$shiny-edge-active-color: rgba(#000, .2) !default;
 
 // We use this to control whether or not CSS classes come through in the gem files.
 $include-html-classes: true !default;
