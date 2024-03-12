@@ -3,6 +3,8 @@ author: tguillerme
 layout: page
 title:  "Coding with ChatGPT"
 teaser: "Using ChatGPT or other LMMs for coding?"
+categories:
+    - session
 tags:
     - coding
     - discussion

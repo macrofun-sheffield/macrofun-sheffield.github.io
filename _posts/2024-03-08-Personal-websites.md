@@ -2,7 +2,8 @@
 layout: page
 title:  "Personal Websites"
 teaser: "Creating personal websites with github pages and jekyll"
-breadcrumb: true
+categories:
+    - session
 tags:
     - coding
     - tutorial

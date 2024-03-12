@@ -3,7 +3,8 @@ author: adanet
 layout: page
 title:  "Reproducible R"
 teaser: "Reproducible computation at scale in R with the target package"
-breadcrumb: true
+categories:
+    - session
 tags:
     - coding
     - tutorial

@@ -13,6 +13,8 @@ author: theauthor
 layout: page
 title:  "My title"
 teaser: "Brief summary"
+categories:
+    - session
 tags:
     - tag1
     - tag2
@@ -23,6 +25,7 @@ tags:
  * `layout`: leave as `page`
  * `title`: keep it short
  * `teaser`: a brief summary that will appear below the title in the posts list ()
+ * `categories`: leave as `session`
  * `tag`: can be any search key words. For example use `coding`, `tutorial`, `discussion` if it's any of these categories and then whatever you think is relevant (e.g. `R`, etc...)
 
  3. Save it as `YYYY-MM-DD-my_post.md` in `_posts/`
