@@ -17,12 +17,10 @@ adanet:
   uri: "https://alaindanet.github.io/index.html"
   email: ""
 
-```
 zzagrodzka:
   name: "Zuzanna Zagrodzka"
   siterole: "author"
   uri: ""
   email: ""
-```
 
 # you can add more authors here

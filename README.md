@@ -49,3 +49,7 @@ You can fill the relevant bits like `uri` that redirects to your website or `ema
 ## Add a picture
 
 Simply store the picture in `images/` and call it from your post as `![Image description]({{ site.baseurl }}/images/image_file_name)`.
+
+## Force refresh pages after a git push
+
+If the pages are not deployed correctly after adding a post, you can look at the potential error message in the github action: https://github.com/macrofun-sheffield/macrofun-sheffield.github.io/actions/workflows/jekyll.yml or/and force to rerun it by clicking Run workflow > Run workflow on the `Deploy Jekyll site to Pages` workflow.
