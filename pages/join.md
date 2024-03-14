@@ -10,15 +10,14 @@ permalink: "/join/"
 
 # You have:
 
-## a university of Sheffield email
+### a university of Sheffield email:
 
  * Log in to [Google groups](https://groups.google.com/) with your university account.
- * Search for `macrofun` in the list.
+ * Select "All groups and messages" in the top search bar and search for `macrofun`.
  * Join!
 
-You will then receive calendar invites about 
- * [join here]()
+You will then receive calendar invites about each future events. 
 
-## another email
+### another email:
 
- * [join here]()
+Send [Thomas](mailto:t.guillerme@sheffield.ac.uk) or [Rob](mailto:rxmacdonald1@sheffield.ac.uk) an email.
