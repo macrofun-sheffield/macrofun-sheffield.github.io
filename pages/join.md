@@ -12,6 +12,11 @@ permalink: "/join/"
 
 ## a university of Sheffield email
 
+ * Log in to [Google groups](https://groups.google.com/) with your university account.
+ * Search for `macrofun` in the list.
+ * Join!
+
+You will then receive calendar invites about 
  * [join here]()
 
 ## another email
