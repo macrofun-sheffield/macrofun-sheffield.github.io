@@ -11,12 +11,9 @@ tags:
     - GitHub
 ---
 
-# TODO: write discussion!
+# Why do a personal website?
 
-1 - why do you need one
-    - because corporate ones take ages to update
-    - because you can use it as a CV that you slowly build up (no need to remember everything!)
-    - because it's more efficient at "advertising" yourself (e.g. when job hunting) rather than a boring CV or social media (you never know which one will turn facist!)
+Firstly, they serve as a centralized hub for findable information about you. This makes it easier for other people to google you for conferences, reviews, seminars, jobs, etc. They also act as a CV, that you can update over time, removing the need to remember every things you've done so far in your career. They also allow you to update them when you want (e.g. before a conference, hunting for jobs, etc.). And finally, having your own personal website means _you_ own the professional information on it and it's not used for unethical practices or profit on other platforms (e.g. Research Gate or LinkedIn).
 
 # Personal websites tutorial
 
