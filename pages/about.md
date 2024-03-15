@@ -44,7 +44,10 @@ To be sure when is next session, [check the schedule here](/future/).
 ### Contributing: 
 <!-- link these to their sessions -->
 
- * Natalie Cooper (2024-02-19)
- * Alain Danet (2024-02-09)
- * Ian Sudbery (2024-01-23)
- * Zuzanna Zagrodzka (2024-01-12)
+ * Natalie Cooper ([2024-02-19](https://macrofun-sheffield.github.io/session/Coding_with_ChatGPT/))
+ * Alain Danet ([2024-02-09](https://macrofun-sheffield.github.io/session/Reproducible_R/))
+ <!-- * Marion Germain ([2024-03-21](https://macrofun-sheffield.github.io/session/Teaching/)) -->
+ <!-- * Emma Hughes ([2024-03-21](https://macrofun-sheffield.github.io/session/Teaching/)) -->
+ <!-- * Joe Llanos ([2024-05-31](https://macrofun-sheffield.github.io/session/NGOs/)) -->
+ * Ian Sudbery ([2024-01-23](https://macrofun-sheffield.github.io/session/Unions/))
+ * Zuzanna Zagrodzka ([2024-01-12](https://macrofun-sheffield.github.io/session/bad_papers/))
