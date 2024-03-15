@@ -20,7 +20,11 @@ This week, Marion Germain and Emma Hughes will be talking to us about their expe
 
 # Sessions after that:
 
-#### 5th of April 2024: TBC
+#### 5th of April 2024: Philosophy of research
+
+ * at 14:00 - Room D126
+
+Tom Johnson will be chatting about the philosophy of research and how that affects our work.
 
 #### 19th of April 2024: Moving in academia (physically)
 
