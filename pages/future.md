@@ -15,19 +15,13 @@ permalink: "/future/"
 
 # Next session:
 
-### 21st of March: Teaching
-
- * at 15:30 - Room D216 
-
-This week, Marion Germain and Emma Hughes will be talking to us about their experience moving from more research to more teaching jobs at the University.
-
-# Sessions after that:
-
-#### 5th of April 2024: Philosophy of research
+### 5th of April 2024: Philosophy of research
 
  * at 14:00 - Room D126 
 
-Tom Johnson will be chatting about the philosophy of research and how that affects our work.
+Tom Johnson will be chatting about how and why to conduct science and the philosophy behind all that.
+
+# Sessions after that:
 
 #### 19th of April 2024: Moving in academia (physically)
 
