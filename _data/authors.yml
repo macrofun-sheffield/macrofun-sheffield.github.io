@@ -23,4 +23,11 @@ zzagrodzka:
   uri: ""
   email: ""
 
+tjohnson:
+  name: "Tom Johnson"
+  siterole: "author"
+  uri: "https://thomasfjohnson.webnode.co.uk/"
+  email: ""
+
+
 # you can add more authors here

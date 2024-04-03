@@ -48,6 +48,7 @@ To be sure when is next session, [check the schedule here](/future/).
  * Alain Danet ([2024-02-09](https://macrofun-sheffield.github.io/session/Reproducible_R/))
  <!-- * Marion Germain ([2024-03-21](https://macrofun-sheffield.github.io/session/Teaching/)) -->
  <!-- * Emma Hughes ([2024-03-21](https://macrofun-sheffield.github.io/session/Teaching/)) -->
+ <!-- * Tom Johnson ([2024-04-05](https://macrofun-sheffield.github.io/session/Popper/)) -->
  <!-- * Joe Llanos ([2024-05-31](https://macrofun-sheffield.github.io/session/NGOs/)) -->
  * Ian Sudbery ([2024-01-23](https://macrofun-sheffield.github.io/session/Unions/))
  * Zuzanna Zagrodzka ([2024-01-12](https://macrofun-sheffield.github.io/session/bad_papers/))
