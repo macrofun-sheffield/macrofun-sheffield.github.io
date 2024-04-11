@@ -15,19 +15,13 @@ permalink: "/future/"
 
 # Next session:
 
-### 5th of April 2024: Philosophy of research
-
- * at 14:00 - Room D126 
-
-Tom Johnson will be chatting about how and why to conduct science and the philosophy behind all that.
-
-# Sessions after that:
-
-#### 19th of April 2024: Moving in academia (physically)
+### 19th of April 2024: Moving in academia (physically)
 
  * at 14:00 - Room D216
 
 Ankita Sinha will be leading a discussion on moving between universities, countries and continents as an academic (especially as a postdoc).
+
+# Sessions after that:
 
 #### 29th of April 2024: Knowledge Exchange at the university
  
