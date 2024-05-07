@@ -11,6 +11,12 @@ tguillerme:
   uri: "http://tguillerme.github.io/"
   email: "t.guillerme@sheffield.ac.uk"
 
+rmacdonald:
+  name: "Rob MacDonald"
+  siterole: "author"
+  uri: ""
+  email: ""
+
 adanet:
   name: "Alain Danet"
   siterole: "author"

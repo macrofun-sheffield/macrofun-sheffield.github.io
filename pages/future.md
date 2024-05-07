@@ -14,24 +14,18 @@ permalink: "/future/"
 <!-- <a href="URL_TO_EVENT"><img src="/images/calendar_logo3.png"/></a> -->
 
 # Next session:
-
-<!-- ### 25th of April 2024: Moving in academia (physically)
-
- * at 14:00 - Room D212
-
-Ankita Sinha will be leading a discussion on moving between universities, countries and continents as an academic (especially as a postdoc).
- -->
-### 29th of April 2024: Knowledge Exchange at the university
+<!-- ### 29th of April 2024: Knowledge Exchange at the university
  
  * at 14:00 - Room D212 
 
  Tijana Close will be telling us about what is the [Knowledge Exchange](https://staff.sheffield.ac.uk/rpi/knowledge-exchange) (basically our work beyond academia) and what resources we can use.
+ -->
 
-# Sessions after that:
-
-#### Week of the 13th of May Presentations [probably monday or tuesday]
+### Week of the 13th of May Presentations (probably Monday or Tuesday)
 
 We will talk about tips for making nice presentations (focusing on slide design).
+
+# Sessions after that:
 
 #### 31st of May 2024: From academia to NGOs
 
