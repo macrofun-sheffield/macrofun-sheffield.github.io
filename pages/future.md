@@ -21,9 +21,11 @@ permalink: "/future/"
  Tijana Close will be telling us about what is the [Knowledge Exchange](https://staff.sheffield.ac.uk/rpi/knowledge-exchange) (basically our work beyond academia) and what resources we can use.
  -->
 
-### Week of the 13th of May Presentations (probably Monday or Tuesday)
+### 17th of May: R markdown
 
-We will talk about tips for making nice presentations (focusing on slide design).
+ * at 14:00 - Room D216 
+
+Thomas will be doing a quick tutorial about markdown and Rmarkdown and why it's amazing for taking notes and coding.
 
 # Sessions after that:
 
