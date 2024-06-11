@@ -15,16 +15,13 @@ permalink: "/future/"
 
 # Next session:
 
-### 31st of May 2024: From academia to NGOs
+### 14th of June: macrofun general meeting
 
- * at 14:00 - Room D216
+ * at 13:00 - Room D216
 
-Joe Llanos from RSPB will be talking about his experience transitioning from academia to working with NGOs and policy making.
+Let's chat about how macrofun has been going for the last six months and where do we want to go from there.
+If you can't attend, you can give us your thoughts/suggestions [here](https://docs.google.com/forms/d/e/1FAIpQLSfGbC82KqFeZGgnWyZGmXJaE6Lynzp_lrykhJKsC5_LwIth3A/viewform).
 
 # Sessions after that:
 
-#### Week of the 10th of June: macrofun general meeting
-
-Let's chat about how macrofun has been going for the last six months and where do we want to go from there.
-
-#### Then it's summer break!
+#### It's summer break!
