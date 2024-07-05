@@ -13,8 +13,6 @@ tags:
     - academia
 ---
 
-# From PhD to policies
-
 This week, [Joe Llanos](mailto:joe.llanos@rspb.org.uk) from the [RSPB](https://www.rspb.org.uk/) chat to us about his experience transitioning from academia (PhD at Sheffield) to working with NGOs and policy making at The Wildlife Trusts and the RSPB.
 
 ### You did some policy-related stuff (a placement with the Parliamentary Office of Science & Technology – writing briefings for MPs on specialist topic) during his PhD – why did you get involved in that?
