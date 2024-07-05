@@ -50,7 +50,7 @@ To be sure when is next session, [check the schedule here](/future/).
  * Marion Germain ([2024-03-21](https://macrofun-sheffield.github.io/session/Teaching/))
  * Emma Hughes ([2024-03-21](https://macrofun-sheffield.github.io/session/Teaching/))
  * Tom Johnson ([2024-04-05](https://macrofun-sheffield.github.io/session/Popper/))
- <!-- * Joe Llanos ([2024-05-31](https://macrofun-sheffield.github.io/session/NGOs/)) -->
+ * Joe Llanos ([2024-05-31](https://macrofun-sheffield.github.io/session/From_PhD_to_policies/))
  * Ankita Sinha ([2024-04-25](https://macrofun-sheffield.github.io/session/Moving/))
  * Ian Sudbery ([2024-01-23](https://macrofun-sheffield.github.io/session/Unions/))
  * Zuzanna Zagrodzka ([2024-01-12](https://macrofun-sheffield.github.io/session/bad_papers/))
