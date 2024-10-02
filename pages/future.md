@@ -10,8 +10,7 @@ permalink: "/future/"
 
 [Join the calendar](/join/) to not miss any updates.
 
-<!-- Share calendar events straight (create shareable calendar first: https://www.youtube.com/watch?v=LcF7w7sOjKI) -->
-<!-- <a href="URL_TO_EVENT"><img src="/images/calendar_logo3.png"/></a> -->
+<a href="https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20I"><img src="/images/calendar_logo3.png"/></a>
 
 # Next session:
 
@@ -42,3 +41,6 @@ This is going to be a workshop on how to use version control for your everyday w
 #### 20th of December: Classic papers
 
 We will be discussing about classic papers in macroecology and macroevolution
+
+
+<!-- https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 -->

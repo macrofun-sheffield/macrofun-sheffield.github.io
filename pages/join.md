@@ -8,7 +8,16 @@ permalink: "/join/"
     # image_fullwidth: "header_drop.jpg"
 ---
 
-# You have:
+
+# [Join the calendar](https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+<a href="https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20I"><img src="/images/calendar_logo3.png"/></a>
+
+This will allow you to get the calendar notifications for all events.
+
+# Join the email list
+
+Alternatively, you can join the google group (email list) using the following:
 
 ### a university of Sheffield email:
 
