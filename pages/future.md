@@ -14,21 +14,13 @@ permalink: "/future/"
 
 # Next session:
 
-### 11th of October: Welcome back!
+### 8th of November: Reviewing papers series - episode 1
 
  * at 14:00 - Room D216
 
-We're back for the new year! For this session we will introduce each other and introduce our plans for the coming year!
+We will be discussing on how to review papers, what to comment on, what to not comment, whether to be anonymous or not and how to make your reviewing work most useful for everyone!
 
 # Sessions after that:
-
-#### 25th of October: Algorithm design in R
-
-We'll be chatting about for loops, if else, lapply, apply, replicate and other functions to make your code more efficient and save the planet!
-
-#### 8th of November: Reviewing papers series - episode 1
-
-We will be discussing on how to review papers, what to comment on, what to not comment, whether to be anonymous or not and how to make your reviewing work most useful for everyone!
 
 #### 22nd of November: Reviewing paper series - episode 2
 
