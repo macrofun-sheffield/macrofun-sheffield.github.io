@@ -1,11 +1,14 @@
 ---
-title: "Algorithm design"
-author: "Thomas Guillerme"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    fig_width: 12
-    fig_height: 6
+author: tguillerme
+layout: page
+title:  "Algorithm designs"
+teaser: "Just functionalise your code"
+categories:
+    - session
+tags:
+    - worshop
+    - coding
+    - R
 ---
 
 # Functionalise
