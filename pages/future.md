@@ -14,21 +14,17 @@ permalink: "/future/"
 
 # Next session:
 
-### 8th of November: Reviewing papers series - episode 1
+### 22nd of November: Unit testing
 
  * at 14:00 - Room D216
 
-We will be discussing on how to review papers, what to comment on, what to not comment, whether to be anonymous or not and how to make your reviewing work most useful for everyone!
+Unit testing code to make it more reliable and shareable!
 
 # Sessions after that:
 
-#### 22nd of November: Reviewing paper series - episode 2
+#### 6th of December: Open research
 
-We will be friendly reviewing a paper all together.
-
-#### 6th of December: Version control
-
-This is going to be a workshop on how to use version control for your everyday work so that you don't end up working on the wrong latest version of your manuscript or don't break code of your colleagues!
+We will be chatting about open research: reproducible work, shareable data and open access papers!
 
 #### 20th of December: Classic papers
 
