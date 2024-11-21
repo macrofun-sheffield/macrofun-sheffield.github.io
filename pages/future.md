@@ -22,9 +22,9 @@ Unit testing code to make it more reliable and shareable!
 
 # Sessions after that:
 
-#### 6th of December: Open research
+#### 6th of December: FAIR data
 
-We will be chatting about open research: reproducible work, shareable data and open access papers!
+Zuzanna Zagrodzka and Alain Danet we will be chatting about FAIR data in data management plans and meta data!
 
 #### 20th of December: Classic papers
 
