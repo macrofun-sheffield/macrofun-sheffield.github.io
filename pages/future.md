@@ -14,17 +14,13 @@ permalink: "/future/"
 
 # Next session:
 
-### 22nd of November: Unit testing
+### 6th of December: FAIR data
 
- * at 14:00 - Room D216
-
-Unit testing code to make it more reliable and shareable!
-
-# Sessions after that:
-
-#### 6th of December: FAIR data
+ * at 15:00 - Room D216
 
 Zuzanna Zagrodzka and Alain Danet we will be chatting about FAIR data in data management plans and meta data!
+
+# Sessions after that:
 
 #### 20th of December: Classic papers
 
