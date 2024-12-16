@@ -18,7 +18,7 @@ permalink: "/future/"
 
  * at 15:00 - Room D216
 
-We will be discussing the classic Hutchinson 1959 paper ([not a link to the paper](({{ site.baseurl }}/images/Not_at_all_Hutchinson1959.pdf)).
+We will be discussing the classic Hutchinson 1959 paper ([not a link to the paper](/images/Not_at_all_Hutchinson1959.pdf)).
 
 # Sessions after that:
 
