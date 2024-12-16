@@ -14,17 +14,14 @@ permalink: "/future/"
 
 # Next session:
 
-### 6th of December: FAIR data
+### 20th of December: Classic papers
 
  * at 15:00 - Room D216
 
-Zuzanna Zagrodzka and Alain Danet we will be chatting about FAIR data in data management plans and meta data!
+We will be discussing the classic Hutchinson 1959 paper ([not a link to the paper](({{ site.baseurl }}/images/Not_at_all_Hutchinson1959.pdf)).
 
 # Sessions after that:
 
-#### 20th of December: Classic papers
-
-We will be discussing about classic papers in macroecology and macroevolution
-
+To be figured out! Any suggestions are welcome (please contact [us](/about/))!
 
 <!-- https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 -->
