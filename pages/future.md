@@ -16,7 +16,7 @@ permalink: "/future/"
 
 ### 20th of December: Classic papers
 
- * at 15:00 - Room D216
+ * at 14:00 - Room D216
 
 We will be discussing the classic Hutchinson 1959 paper ([not a link to the paper](/images/Not_at_all_Hutchinson1959.pdf)).
 
