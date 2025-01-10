@@ -22,24 +22,17 @@ Thomas will show us how easy it is to wrap up your R code into an R package and 
 
 # Sessions after that:
 
-## 31st of January: TBC
+## 14th of February: TBC
 
  * at 14:00 - Room D216
 
 <!-- How Scala Naturae influences our work/popular science - Maybe check with Tori about sci comm stuff?
  -->
-
-## 14th of February: Inkscape
+## 28th of February: Inkscape
 
  * at 14:00 - Room D216
 
 Kat will introduce us on how to use Inkscape for designing figures and posters.
-
-## 28th of February: Graphical abstracts TBC
-
- * at 14:00 - Room D216
-
-<!-- Kouvari tells us about graphical abstracts -->
 
 ## 14th of March: LaTeX
 
@@ -60,11 +53,11 @@ We will be discussing some classic old paper.
 
 <!-- Ask Jen and Ankita: Writing or/and applying for Marie Curies (by Jenifer: maybe for a session in February/March: start the grant first page how to?) -->
 
-## 25th of April: New AI tools for helping research
+## 25th of April: TBC
 
  * at 14:00 - Room D216
 
-Kat will be demonstrating some new cool tools that can help with some tasks in research.
+<!-- Kouvari tells us about graphical abstracts -->
 
 ## 9th of May: TBC
 
