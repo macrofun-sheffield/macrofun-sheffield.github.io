@@ -16,7 +16,7 @@ tags:
 
 It's super easy!
 
-download this R markdown file [here](https://github.com/macrofun-sheffield/macrofun-sheffield.github.io/blob/main/_posts/2025-17-01-R_packages.md)
+download this R markdown file [here](https://github.com/macrofun-sheffield/macrofun-sheffield.github.io/blob/main/_posts/2025-01-17-R_packages.md)
 
 ## Why packaging your R code?
 
