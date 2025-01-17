@@ -14,7 +14,7 @@ tags:
 
 # Making R packages
 
-> It's super easy!
+It's super easy!
 
 download this R markdown file [here](https://github.com/macrofun-sheffield/macrofun-sheffield.github.io/blob/main/_posts/2025-17-01-R_packages.md)
 
@@ -34,7 +34,7 @@ download this R markdown file [here](https://github.com/macrofun-sheffield/macro
  * One idea (or more)
  * `devtools` and `roxygen2` packages
 
-```{r, eval = FALSE}
+```
 ## Load them packages!
 library("devtools")
 library("roxygen2")
@@ -51,7 +51,7 @@ Check it out, it's explained way better than this note!
 R packages have a typical format (folders with fixed names) and typical files (`DESCRIPTION` and `NAMESPACE`).
 You can do all that by hand but eh, why bother, just run the following and `devtools` deals with everything for you!
 
-```{r, eval = FALSE}
+```
 ## Create a package with an inspiring name (keep it short!)
 create("fakeR")
 ```
@@ -65,7 +65,7 @@ Luckily, `devtools` generates it all for you so you can just edit the text in th
 
 Let's write a complex function:
 
-```{r, eval = FALSE}
+```
 ## A really complex function
 average <- function(vector) {
     return(sum(vector)/length(vector))
@@ -82,7 +82,7 @@ The documentation is made super easy by the `roxygen` package: it recognises fun
 Note that only lines starting with `#'` are interpreted by `roxygen`; you can still comment your code normally using `#`.
 One other important thing is the `@export` tag that will export the function (we'll see that later)
 
-```{r, eval = FALSE}
+```
 #' @title Average
 #'
 #' @description Does some complex math to get an average value
@@ -107,20 +107,20 @@ average <- function(vector) {
 
 Within your package folder, you can first create your documentation:
 
-```{r, eval = FALSE}
+```
 setwd("fakeR/")
 document()
 ```
 
 And then compile and install the whole package:
 
-```{r, eval = FALSE}
+```
 install()
 ```
 
 Check it out:
 
-```{r, eval = TRUE}
+```
 library(fakeR)
 ## Wow!
 average(c(1,2,3))
@@ -143,7 +143,7 @@ For example, we could mofidy the `average.R` function to add some sanitising fun
 
 We can create a `check.vector` function that we will store in a `sanitising.R` file:
 
-```{r, eval = FALSE}
+```
 ## Check if an argument is a numeric vector
 check.vector <- function(vector) {
     if(class(vector) != "numeric") {
@@ -156,7 +156,7 @@ Note that we don't need a `roxygen` type manual and no `export` since this won't
 
 We can then edit the `average.R` function to include this function (again users don't need to access `check.vector`):
 
-```{r, eval = FALSE}
+```
 #' @title Average
 #'
 #' @description Does some complex math to get an average value
@@ -182,14 +182,14 @@ average <- function(vector) {
 
 And you can then recompile all the yoke:
 
-```{r, eval = FALSE}
+```
 document()
 install()
 ```
 
 And check it:
 
-```{r, eval = TRUE,  error = TRUE}
+```
 library(fakeR)
 average(c(1,2,3))
 average(c("a", "b", "c"))
@@ -208,7 +208,7 @@ For example `t.test` becomes `stats::t.test` (because it's in the `stats` packag
 These dependencies also need to be exported to the `NAMESPACE` but we can take advantage of `roxygen` awesomeness and just use the `#' @importFrom` tags (see at the bottom of the file).
 
 
-```{r, eval = FALSE}
+```
 #' @title Super significant t.test
 #'
 #' @description Always make sure your results are significant
@@ -246,12 +246,12 @@ NULL
 
 Recompile and check:
 
-```{r, eval = FALSE}
+```
 document()
 install()
 ```
 
-```{r, eval = TRUE}
+```
 library(fakeR)
 
 ## Running the t.test
@@ -264,8 +264,8 @@ super.t.test(rnorm(50), rnorm(50))
 Finally, you can upload your package to GitHub (and initiate proper version control).
 This is super handy so you can load the package from everywhere using:
 
-```{r, eval = FALSE}
-install_github("TGuillermeTeaching/fakeR")
+```
+install_github("my_github/fakeR")
 ```
 
 > Of course, you're not me so you might want to change the repository and user name...
@@ -284,7 +284,7 @@ This helps, when you have a lot of interdependent code: for example if you chang
 
 You can initiate the testing using `test` function from `devtools` but you need to first install the testing package: `testthat`
 
-```{r, eval = FALSE}
+```
 install.packages("testthat")
 ## Initiate the testing
 test()
@@ -295,7 +295,7 @@ Again, I'm not going to go in the philosophy of unit-testing (plenty of resource
 
 For example, we can create our test file for our average function as follow (and saving it in a file called `test-average.R` in `test/testthat/`):
 
-```{r, eval = FALSE}
+```
 ## Describing the context (so it prints on screen what it is testing)
 context("average")
 
@@ -316,7 +316,7 @@ This way, if we modify some aspect of the function or its dependencies, we can s
 
 To run the tests, simply use the `test` function:
 
-```{r, eval = FALSE}
+```
 test()
 ```
 
@@ -338,12 +338,12 @@ Everybody has his own technique but personally I think that test driven developm
 The idea is to follow this pipeline:
     
  1. Write down what your code should do (as a function)
-```{r, eval = FALSE}
+```
 ## This function should return a matrix with as many rows as the input
 ## and values between 0 and 1.
 ```
  2. Write the test
-```{r, eval = FALSE}
+```
 ## This function should return a matrix with as many rows as the input
 ## and values between 0 and 1.
 test_that("my function does what it should", {
@@ -354,7 +354,7 @@ test_that("my function does what it should", {
 })
 ```
  3. And only then write the code.
-```{r, eval = FALSE}
+```
 ## My function
 my.function <- function(input) {
     return(matrix(data = sample(c(0,1), replace = TRUE), nrow = length(input)))
@@ -378,7 +378,7 @@ Also it helps you writing functions that are always tested!
 
 Personally I like making my life easier by creating a wrapping function that does all that for me (typically this function lives out of the package like in the [`.Rprofile` file](https://csgillespie.github.io/efficientR/3-3-r-startup.html#rprofile)). Something like:
 
-```{r, eval = FALSE}
+```
 refresh.fakeR <- function() 
 {
     library(devtools)
