@@ -335,14 +335,17 @@ test()
 ## Unit testing digression
 
 Everybody has his own technique but personally I think that test driven development is the best.
-The idea is to follow this pipeline:
-    
+The idea is to follow this pipeline:    
+
  1. Write down what your code should do (as a function)
+
 ```
 ## This function should return a matrix with as many rows as the input
 ## and values between 0 and 1.
 ```
+
  2. Write the test
+
 ```
 ## This function should return a matrix with as many rows as the input
 ## and values between 0 and 1.
@@ -353,7 +356,9 @@ test_that("my function does what it should", {
     expect_false(any(output < 0))
 })
 ```
- 3. And only then write the code.
+ 
+ 3. And only then write the code
+
 ```
 ## My function
 my.function <- function(input) {
