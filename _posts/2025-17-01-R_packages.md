@@ -6,10 +6,11 @@ teaser: "Wrapping your code into R packages makes reproducibility easier, especi
 categories:
     - session
 tags:
-    - worshop
+    - workshop
     - R
-    - R pacakges
+    - packages
 ---
+
 
 # Making R packages
 

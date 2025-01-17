@@ -6,7 +6,7 @@ teaser: "Just functionalise your code"
 categories:
     - session
 tags:
-    - worshop
+    - workshop
     - coding
     - R
 ---

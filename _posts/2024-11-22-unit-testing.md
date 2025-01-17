@@ -6,7 +6,7 @@ teaser: "Test your code to make sure it's doing what it's doing"
 categories:
     - session
 tags:
-    - worshop
+    - workshop
     - coding
     - R
 ---
