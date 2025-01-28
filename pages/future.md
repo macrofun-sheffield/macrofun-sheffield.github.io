@@ -14,20 +14,14 @@ permalink: "/future/"
 
 # Next session:
 
-### 17th of January: R packaging
+### 10th of February: The age of dinosaurs
 
- * at 14:00 - Room D216
+ * at 15:00 - Room D216
 
-Thomas will show us how easy it is to wrap up your R code into an R package and why it's super useful for reproducibility.
+We will be discussing the impact of our vision of "The age of fishes/dinosaurs/mammals" on our work. We will base our discussion on this (really nice) [blog post](https://www.extinctblog.org/extinct/2024/1/4/dinosaur-time).
 
 # Sessions after that:
 
-## 14th of February: TBC
-
- * at 14:00 - Room D216
-
-<!-- How Scala Naturae influences our work/popular science - Maybe check with Tori about sci comm stuff?
- -->
 ## 28th of February: Inkscape
 
  * at 14:00 - Room D216
