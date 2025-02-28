@@ -44,6 +44,7 @@ To be sure when is next session, [check the schedule here](/future/).
 ### Contributing: 
 <!-- link these to their sessions -->
 
+ * Kat Assersohn ([2025-02-28](https://macrofun-sheffield.github.io/session/Inkscape/))
  * Tijana Close ([2024-04-29](https://macrofun-sheffield.github.io/session/Knowledge_Exchange/))
  * Natalie Cooper ([2024-02-19](https://macrofun-sheffield.github.io/session/Coding_with_ChatGPT/))
  * Alain Danet ([2024-02-09](https://macrofun-sheffield.github.io/session/Reproducible_R/))
