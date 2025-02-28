@@ -14,25 +14,13 @@ permalink: "/future/"
 
 # Next session:
 
-### 10th of February: The age of dinosaurs
-
- * at 15:00 - Room D216
-
-We will be discussing the impact of our vision of "The age of fishes/dinosaurs/mammals" on our work. We will base our discussion on this (really nice) [blog post](https://www.extinctblog.org/extinct/2024/1/4/dinosaur-time).
-
-# Sessions after that:
-
-## 28th of February: Inkscape
-
- * at 14:00 - Room D216
-
-Kat will introduce us on how to use Inkscape for designing figures and posters.
-
-## 14th of March: LaTeX
+### 14th of March: LaTeX
 
  * at 14:00 - Room D216
 
 Caleb will show how you can very quickly learn LaTeX and how it's the best writing tool ever.
+
+# Sessions after that:
 
 ## 28th of March: Old papers TBC
 
