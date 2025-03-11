@@ -33,12 +33,14 @@ We will be discussing some classic old paper.
 
  * at 14:00 - Room D216
 
-<!-- Ask Jen and Ankita: Writing or/and applying for Marie Curies (by Jenifer: maybe for a session in February/March: start the grant first page how to?) -->
+Alain is going to lead a discussion on the geopolitical aspect of addressing climate change and environmental issues. It will be based on the [recent work](https://www.chaireeconomieduclimat.org/en/viewpoints-en/book-club-en/the-chair-read-for-you-vers-lecologie-de-guerre-une-histoire-environnementale-de-la-paix-by-pierre-charbonnier/
+) of Pierre Charbonnier. 
 
 ## 25th of April: TBC
 
  * at 14:00 - Room D216
 
+<!-- Ask Jen and Ankita: Writing or/and applying for Marie Curies (by Jenifer: maybe for a session in February/March: start the grant first page how to?) -->
 <!-- Kouvari tells us about graphical abstracts -->
 
 ## 9th of May: TBC
