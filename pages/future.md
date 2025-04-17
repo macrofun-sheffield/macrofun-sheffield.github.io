@@ -14,26 +14,20 @@ permalink: "/future/"
 
 # Next session:
 
-### 14th of March: LaTeX
+### 28th of March: Neural Networks
 
- * at 14:00 - Room D216
+ * at 14:00 - Room D212
 
-Caleb will show how you can very quickly learn LaTeX and how it's the best writing tool ever.
+Yichen He is going to run a workshop introducing neural networks, exploring how optimization works in AI, and showcasing cutting-edge models like SAM2, demonstrating their potential for biological research.
 
 # Sessions after that:
 
-## 28th of March: Old papers TBC
+
+## 11th of April: Geopolotics and ecology
 
  * at 14:00 - Room D216
 
-We will be discussing some classic old paper. 
-<!-- Caleb -->
-
-## 11th of April: TBC
-
- * at 14:00 - Room D216
-
-Alain is going to lead a discussion on the geopolitical aspect of addressing climate change and environmental issues. It will be based on the [recent work](https://www.chaireeconomieduclimat.org/en/viewpoints-en/book-club-en/the-chair-read-for-you-vers-lecologie-de-guerre-une-histoire-environnementale-de-la-paix-by-pierre-charbonnier/
+Alain Danet is going to lead a discussion on the geopolitical aspect of addressing climate change and environmental issues. It will be based on the [recent work](https://www.chaireeconomieduclimat.org/en/viewpoints-en/book-club-en/the-chair-read-for-you-vers-lecologie-de-guerre-une-histoire-environnementale-de-la-paix-by-pierre-charbonnier/
 ) of Pierre Charbonnier. 
 
 ## 25th of April: TBC
