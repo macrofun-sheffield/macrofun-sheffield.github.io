@@ -21,12 +21,11 @@ permalink: "/future/"
 Yichen He is going to run a workshop introducing neural networks, exploring how optimization works in AI, and showcasing cutting-edge models like SAM2, demonstrating their potential for biological research.
  -->
 
-
-### 25th of April: Shiny apps
+### 6th of June: conferences
 
  * at 14:00 - Room D216
 
-How to make cool graphical interfaces to explore or visualise your data.
+Discussion about conferences, what to expect, how to prepare.
 
 # Sessions after that:
 
@@ -39,20 +38,6 @@ Alain Danet is going to lead a discussion on the geopolitical aspect of addressi
 ) of Pierre Charbonnier. 
  -->
 
-## 9th of May: TBC
-
- * at 14:00 - Room D216
-
-## 23rd of May: Old papers TBC
-
- * at 14:00 - Room D216
-
-We will be discussing some classic old paper.
-
-## 6th of June: conferences
-
- * at 14:00 - Room D216
-
-Discussion about conferences, what to expect, how to prepare.
+We're having a summer break!
 
 <!-- https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 -->
