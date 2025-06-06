@@ -14,13 +14,6 @@ permalink: "/future/"
 
 # Next session:
 
-<!-- ### 28th of March: Neural Networks
-
- * at 14:00 - Room D212
-
-Yichen He is going to run a workshop introducing neural networks, exploring how optimization works in AI, and showcasing cutting-edge models like SAM2, demonstrating their potential for biological research.
- -->
-
 ### 6th of June: conferences
 
  * at 14:00 - Room D216
