@@ -14,24 +14,87 @@ permalink: "/future/"
 
 # Next session:
 
-<!-- ### 6th of June: conferences
+<!-- ### 19th of August: wildlife tourism
 
- * at 14:00 - Room D216
+ * at ??? room ???
 
-Discussion about conferences, what to expect, how to prepare. -->
+Ravi @@@ from @@@ will be talking about his business of ecotourism in India.
+TODO: BOOK
+TODO: EMAIL sent-->
 
 # Sessions after that:
 
-<!-- 
-## 11th of April: Geopolotics and ecology
 
- * at 14:00 - Room D216
+### 12th of September: Work profiles 1: the CV and cover letter
 
-Alain Danet is going to lead a discussion on the geopolitical aspect of addressing climate change and environmental issues. It will be based on the [recent work](https://www.chaireeconomieduclimat.org/en/viewpoints-en/book-club-en/the-chair-read-for-you-vers-lecologie-de-guerre-une-histoire-environnementale-de-la-paix-by-pierre-charbonnier/
-) of Pierre Charbonnier. 
- -->
+ * at 15:00 room D216
 
- <!-- Session on how to give talks! How to write them, how to prepare them, how to deliver them?
+What do you put in your CV, narrative CV and cover letter?
+
+
+### 26th of September: Work profiles 2: the personal website
+
+ * at 15:00 room D216
+
+What do you put in your personal website/webpage?
+
+
+### 10th of October: IDEs and coding assistants
+
+ * at 15:00 room D216
+
+Yichen He is going to tell us about how to use integrated development environments and coding co-pilots to make coding easier! 
+
+
+### 24th of October: Work profiles 3: the interview
+
+ * at 15:00 room D216
+
+How to prepare for interviews? What to talk about and how to answer questions? 
+
+
+<!-- ### 7th of November: Outreach 1: how to get more involved at a local level?
+
+ * at ??? room ???
+
+Check with Tori
+TODO: BOOK
+TODO: EMAIL-->
+
+
+<!-- ### 21st of November: Outreach 2: making videos
+
+ * at ??? room ???
+
+Check with Rob and Shriya
+TODO: BOOK
+TODO: EMAIL-->
+
+
+<!-- ### 5th of December: Outreach 3: comics
+
+ * at ??? room ???
+
+Check with Gabi
+TODO: BOOK
+TODO: EMAIL-->
+
+
+<!-- ### 9th of January: writing talks
+
+ * at ??? room ???
+
+How to give talks: how to write them, how to prepare them, how to deliver them?
+
+Check with Rob and Thomas
+TODO: BOOK
+TODO: EMAIL-->
+
+
+<!-- ### 23rd of January: the best conference
+
+ * at ??? room ???
+
 Imagining the best conference ever:
 # What's the point of conferences?
  * networking (= meeting new people and old colleagues);
@@ -46,7 +109,9 @@ Imagining the best conference ever:
  * Visas for people from non-global north countries.
   -> conference organisation should facilitate for everyone.
 
-  -->
+TODO: BOOK
+TODO: EMAIL-->
+
 
 We're having a summer break!
 
