@@ -14,16 +14,13 @@ permalink: "/future/"
 
 # Next session:
 
-<!-- ### 19th of August: wildlife tourism
+### 18th of August: wildlife tourism
 
- * at ??? room ???
+ * at 15:00 room ???
 
-Ravi @@@ from @@@ will be talking about his business of ecotourism in India.
-TODO: BOOK
-TODO: EMAIL sent-->
+Raviraj Soman from [the mammoth project](https://themammothproject.org/) will be talking about his business of ecotourism in India.
 
 # Sessions after that:
-
 
 ### 12th of September: Work profiles 1: the CV and cover letter
 
