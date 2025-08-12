@@ -16,7 +16,7 @@ permalink: "/future/"
 
 ### 18th of August: wildlife tourism
 
- * at 15:00 room ???
+ * at 15:00 room D216
 
 Raviraj Soman from [the mammoth project](https://themammothproject.org/) will be talking about his business of ecotourism in India.
 
