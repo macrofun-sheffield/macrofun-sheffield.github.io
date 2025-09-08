@@ -14,20 +14,13 @@ permalink: "/future/"
 
 # Next session:
 
-### 18th of August: wildlife tourism
-
- * at 15:00 room D216
-
-Raviraj Soman from [the mammoth project](https://themammothproject.org/) will be talking about his business of ecotourism in India.
-
-# Sessions after that:
-
 ### 12th of September: Work profiles 1: the CV and cover letter
 
  * at 15:00 room D216
 
 What do you put in your CV, narrative CV and cover letter?
 
+# Sessions after that:
 
 ### 26th of September: Work profiles 2: the personal website
 
