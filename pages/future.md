@@ -14,20 +14,15 @@ permalink: "/future/"
 
 # Next session:
 
-### 12th of September: Work profiles 1: the CV and cover letter
-
- * at 15:00 room D216
-
-What do you put in your CV, narrative CV and cover letter?
-
-# Sessions after that:
 
 ### 26th of September: Work profiles 2: the personal website
 
  * at 15:00 room D216
 
-What do you put in your personal website/webpage?
+Ankita Sinha is going to tell us what to put in your personal website/webpage
 
+
+# Sessions after that:
 
 ### 10th of October: IDEs and coding assistants
 
