@@ -15,27 +15,21 @@ permalink: "/future/"
 # Next session:
 
 
-### 26th of September: Work profiles 2: the personal website
+### 10th of October: Work profiles 3: the interview
 
  * at 15:00 room D216
 
-Ankita Sinha is going to tell us what to put in your personal website/webpage
+How to prepare for interviews? What to talk about and how to answer questions? 
 
 
 # Sessions after that:
 
-### 10th of October: IDEs and coding assistants
+### 24th of October: IDEs and coding assistants
 
  * at 15:00 room D216
 
 Yichen He is going to tell us about how to use integrated development environments and coding co-pilots to make coding easier! 
 
-
-### 24th of October: Work profiles 3: the interview
-
- * at 15:00 room D216
-
-How to prepare for interviews? What to talk about and how to answer questions? 
 
 
 <!-- ### 7th of November: Outreach 1: how to get more involved at a local level?
