@@ -15,15 +15,19 @@ permalink: "/future/"
 # Next session:
 
 
-### 10th of October: Work profiles 3: the interview
+### 10th of October: Canceled
+
+No macrofun this week. Sorry!
+
+# Sessions after that:
+
+### 24th of October: Work profiles 3: the interview
 
  * at 15:00 room D216
 
 How to prepare for interviews? What to talk about and how to answer questions? 
 
-
-# Sessions after that:
-
+<!-- 
 ### 24th of October: IDEs and coding assistants
 
  * at 15:00 room D216
@@ -31,7 +35,7 @@ How to prepare for interviews? What to talk about and how to answer questions?
 Yichen He is going to tell us about how to use integrated development environments and coding co-pilots to make coding easier! 
 
 
-
+ -->
 <!-- ### 7th of November: Outreach 1: how to get more involved at a local level?
 
  * at ??? room ???
