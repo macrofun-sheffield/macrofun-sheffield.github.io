@@ -34,13 +34,11 @@ Following this [discussion on unions](https://macrofun-sheffield.github.io/sessi
 Yichen He is going to tell us about how to use integrated development environments and coding co-pilots to make coding easier!
 
 
-<!-- ### 13th of February: Outreach 1: how to get more involved at a local level?
+### 13th of February: Outreach 1: how to get more involved at a local level?
 
  * at 15:00 room D216
 
- Check with Tori
-TODO: BOOK
-TODO: EMAIL--> -->
+Oliver Meacock will tell us about using modelling in research.
 
 ### 27th of February: ecology in fiction
 
