@@ -48,9 +48,10 @@ Shriya Uday about speculative ecology in fiction.
 
 ### 13th of March: Outreach 2: comics
 
-Today we'll have Gabi Putnoki from the [GNRR](https://www.graphicnovelreadingroom.com/) that is going to tell us about her editorial work on making research outreach comics.
-
  * at 15:00 room D216
+
+Gabi Putnoki from the [GNRR](https://www.graphicnovelreadingroom.com/) will tell us about her editorial work on making research outreach comics.
+
 
 ### 27th of March: writing talks
 
@@ -60,9 +61,9 @@ How to give talks: how to write them, how to prepare them, how to deliver them?
 
 ### 10th of April: the best conference
 
-We're going to discuss what could be the best conference ever! What format is better? How long? With which aims? etc.
-
  * at 15:00 room D216
+
+We're going to discuss what could be the best conference ever! What format is better? How long? With which aims? etc.
 
 
 <!-- https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20 -->
