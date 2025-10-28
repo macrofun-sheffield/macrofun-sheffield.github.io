@@ -42,17 +42,11 @@ Yichen He is going to tell us about how to use integrated development environmen
 TODO: BOOK
 TODO: EMAIL--> -->
 
-<!-- ### 27th of February: ecology in fiction
+### 27th of February: ecology in fiction
 
  * at 15:00 room D216
 
 Shriya Uday about speculative ecology in fiction.
-
-more info on macrofun here: https://macrofun-sheffield.github.io/ 
-
-TODO: BOOK
-TODO: EMAIL
- -->
 
 ### 13th of March: Outreach 2: comics
 
