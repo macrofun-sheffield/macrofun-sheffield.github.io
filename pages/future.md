@@ -10,7 +10,7 @@ permalink: "/future/"
 
 [Join the calendar](/join/) to not miss any updates.
 
-<a href="https://calendar.google.com/calendar/embed?src=c_6af44cf663a1bfe68f70e52a11a009f7ed619fde90c619f06ae1bd4cca8d7c9d%40group.calendar.google.com&ctz=Europe%2FLondon"><img src="/images/calendar_logo3.png"/></a>
+<a href="https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"><img src="/images/calendar_logo3.png"/></a>
 
 # Next session:
 ### 7th of November: Work profiles 3: the interview
