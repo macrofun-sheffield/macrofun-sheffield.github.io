@@ -13,26 +13,26 @@ permalink: "/future/"
 <a href="https://calendar.google.com/calendar/u/0?cid=Y182YWY0NGNmNjYzYTFiZmU2OGY3MGU1MmExMWEwMDlmN2VkNjE5ZmRlOTBjNjE5ZjA2YWUxYmQ0Y2NhOGQ3YzlkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"><img src="/images/calendar_logo3.png"/></a>
 
 # Next session:
-### 7th of November: Work profiles 3: the interview
+<!-- ### 7th of November: Work profiles 3: the interview
 
 * at 15:00 room D216
 
 How to prepare for interviews? What to talk about and how to answer questions? 
 
-# Sessions after that:
 
 ### 21th of November: Striking in academia
 
  * at 15:00 location TBC
 
 Following this [discussion on unions](https://macrofun-sheffield.github.io/session/Unions/) we will be discussing about industrial actions in academia: should you strike? at what career stage to do it? how to do it? 
-
+ -->
 ### 16th of January: IDEs and coding assistants
 
  * at 15:00 room D216
 
 Yichen He is going to tell us about how to use integrated development environments and coding co-pilots to make coding easier!
 
+# Sessions after that:
 
 ### 13th of February: Outreach 1: how to get more involved at a local level?
 
