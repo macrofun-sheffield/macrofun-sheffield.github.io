@@ -26,11 +26,11 @@ How to prepare for interviews? What to talk about and how to answer questions?
 
 Following this [discussion on unions](https://macrofun-sheffield.github.io/session/Unions/) we will be discussing about industrial actions in academia: should you strike? at what career stage to do it? how to do it? 
  -->
-### 16th of January: IDEs and coding assistants
+### 23rd of January: Using the HPC for Ecology and Evolution work
 
  * at 15:00 room D216
 
-Yichen He is going to tell us about how to use integrated development environments and coding co-pilots to make coding easier!
+Caleb Scutt is going to tell us about his experience and pro-tips on how to use the Sheffield computer clusters (HPC) for Ecology and Evolution work.
 
 # Sessions after that:
 
