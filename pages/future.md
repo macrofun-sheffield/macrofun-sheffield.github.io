@@ -25,20 +25,21 @@ How to prepare for interviews? What to talk about and how to answer questions?
  * at 15:00 location TBC
 
 Following this [discussion on unions](https://macrofun-sheffield.github.io/session/Unions/) we will be discussing about industrial actions in academia: should you strike? at what career stage to do it? how to do it? 
- -->
 ### 23rd of January: Using the HPC for Ecology and Evolution work
 
  * at 15:00 room D216
 
 Caleb Scutt is going to tell us about his experience and pro-tips on how to use the Sheffield computer clusters (HPC) for Ecology and Evolution work.
+ -->
 
-# Sessions after that:
-
-### 13th of February: Outreach 1: how to get more involved at a local level?
+## 13th of February: Modelling in research
 
  * at 15:00 room D216
 
 Oliver Meacock will tell us about using modelling in research.
+
+# Sessions after that:
+
 
 ### 27th of February: ecology in fiction
 
