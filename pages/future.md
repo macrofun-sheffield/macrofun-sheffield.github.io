@@ -32,33 +32,33 @@ Following this [discussion on unions](https://macrofun-sheffield.github.io/sessi
 Caleb Scutt is going to tell us about his experience and pro-tips on how to use the Sheffield computer clusters (HPC) for Ecology and Evolution work.
  -->
 
-## 13th of February: Modelling in research
+<!-- ## 13th of February: Modelling in research
 
  * at 15:00 room D216
 
-Oliver Meacock will tell us about using modelling in research.
+Oliver Meacock will tell us about using modelling in research. -->
 
-# Sessions after that:
-
-
-### 27th of February: ecology in fiction
-
- * at 15:00 room D216
-
-Shriya Uday about speculative ecology in fiction.
-
-### 13th of March: Outreach 2: comics
+## 13th of March: Outreach 2: comics
 
  * at 15:00 room D216
 
 Gabi Putnoki from the [GNRR](https://www.graphicnovelreadingroom.com/) will tell us about her editorial work on making research outreach comics.
 
 
-### 27th of March: writing talks
+# Sessions after that:
+
+### 27th of March: ecology in fiction
 
  * at 15:00 room D216
 
-How to give talks: how to write them, how to prepare them, how to deliver them?
+Shriya Uday about speculative ecology in fiction.
+
+
+<!-- ### 27th of March: writing talks
+
+ * at 15:00 room D216
+
+How to give talks: how to write them, how to prepare them, how to deliver them? -->
 
 ### 10th of April: the best conference
 
