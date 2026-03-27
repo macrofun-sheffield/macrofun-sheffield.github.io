@@ -25,6 +25,7 @@ How to prepare for interviews? What to talk about and how to answer questions?
  * at 15:00 location TBC
 
 Following this [discussion on unions](https://macrofun-sheffield.github.io/session/Unions/) we will be discussing about industrial actions in academia: should you strike? at what career stage to do it? how to do it? 
+
 ### 23rd of January: Using the HPC for Ecology and Evolution work
 
  * at 15:00 room D216
@@ -32,27 +33,13 @@ Following this [discussion on unions](https://macrofun-sheffield.github.io/sessi
 Caleb Scutt is going to tell us about his experience and pro-tips on how to use the Sheffield computer clusters (HPC) for Ecology and Evolution work.
  -->
 
-<!-- ## 13th of February: Modelling in research
-
- * at 15:00 room D216
-
-Oliver Meacock will tell us about using modelling in research. -->
-
 ## 13th of March: Outreach 2: comics
 
  * at 15:00 room D216
 
-Gabi Putnoki from the [GNRR](https://www.graphicnovelreadingroom.com/) will tell us about her editorial work on making research outreach comics.
-
+Shriya Uday is going to talk about speculative ecology in fiction.
 
 # Sessions after that:
-
-### 27th of March: ecology in fiction
-
- * at 15:00 room D216
-
-Shriya Uday about speculative ecology in fiction.
-
 
 <!-- ### 27th of March: writing talks
 
