@@ -18,7 +18,7 @@ permalink: "/future/"
 
  * at 14:00 room D216
 
-We're going to do an excercise to learn tools for collaborative coding.
+We're going to do an exercise to learn tools for collaborative coding.
 
 <!-- ### 7th of November: Work profiles 3: the interview
 
