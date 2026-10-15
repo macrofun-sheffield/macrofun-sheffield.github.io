@@ -35,7 +35,7 @@ I find it sometimes useful to go back to this very basic structure to understand
 
 For example, you want to do this simple operation:
 
-```{r}
+```
 a <- 1
 b <- 42
 c <- a + b
@@ -75,7 +75,7 @@ So how do you functionalise stuff knowing all that?
 I wrote this for a project in 2011.
 Note that the comments are in french but pretty easy to understand in english.
 
-```{r, eval = FALSE}
+```
 dat2<-datat[,c(1,5:8,11,16,17)]
 for (i in 2:8)
 {a<-which(is.na(dat2[,i]))
@@ -132,7 +132,7 @@ First thing to notice is that each chunk are pretty similar in their (ugly) stru
 We can zoom on one bit an make it more readable (I think past me didn't had a keyboard with a space bar)
 
 
-```{r, eval = FALSE}
+```
 dat2 <- datat[, c(1, 5:8, 11, 16, 17)]
 
 for (i in 2:8) {
@@ -164,14 +164,14 @@ We can then divide into distinguishable chunks:
 
 ### 1. subsetting some columns from some matrix or data.frame
 
-```{r, eval = FALSE}
+```
 ## Subsetting some columns from a matrix/data.frame
 dat2 <- datat[, c(1, 5:8, 11, 16, 17)]
 ```
 
 OK. Let's rewrite that as a function then (easy one):
 
-```{r, eval = FALSE}
+```
 ## Subsetting columns from the data
 subset.data <- function(data, columns) {
     return(data[, columns])
@@ -183,7 +183,7 @@ subset.data <- function(data, columns) {
 Excluding the first one column for some reason.
 In the loop it seems we are first looking for NAs in a column and removing the corresponding rows if there are some NAs.
 
-```{r, eval = FALSE}
+```
 ## Looping through all columns, excluding the first one
 for (i in 2:8) {
     
@@ -201,7 +201,7 @@ for (i in 2:8) {
 
 This is what the loop is actually doing:
 
-```{r, eval = FALSE}
+```
 ## Detecting columns with NAs
 detecting.rows.with.na.by.column <- function(data) {
     ## Creating an empty vector that will contain the NAs
@@ -235,7 +235,7 @@ That means collecting a vector that is of any length (0 if no NA) and correspond
 You are applying a function "find NAs in a column" to each column of the data...
 Uh oh! `apply`!
 
-```{r, eval = FALSE}
+```
 ## Rewriting the function using a simple apply
 detecting.rows.with.na.by.column <- function(data) {
                   ## The input matrix/data.frame
@@ -251,7 +251,7 @@ detecting.rows.with.na.by.column <- function(data) {
 
 Once you'll get used with `apply` you'll probably just write it as a one liner:
 
-```{r, eval = FALSE}
+```
 detecting.rows.with.na.by.column <- function(data) {
     ## return just the row unique row numbers
     return(unique(c(apply(data, 2, function(data) which(is.na(data))))))
@@ -260,14 +260,14 @@ detecting.rows.with.na.by.column <- function(data) {
 
 So we can rewrite the whole loop using these functions:
 
-```{r, eval = FALSE}
+```
 ## Remove rows that correspond to columns with NAs
 remove.rows.for.na.columns <- function(data) {
     return(remove.rows(data, detecting.rows.with.na.by.column(data)))
 }
 ```
 
-```{r, eval = FALSE}
+```
 ## That's a cleaner loop!
 data[, -1] <- remove.rows.for.na.columns(data[, -1])
 
@@ -278,7 +278,7 @@ data[, -1] <- remove.rows.for.na.columns(data[, -1])
 This one is easy as it is just scaling and there's already a function called scale.
 Note here that we can ignore the subseting of the data since we can just make sure the whole input ignores the first column.
 
-```{r, eval = FALSE}
+```
 ## Scaling the data
 scale(data)
 ```
@@ -287,7 +287,7 @@ scale(data)
 
 This chunk looks scary and fancy, what's happening here?
 
-```{r, eval = FALSE}
+```
 #décomposition de la matrice de variance covariance en vecteur et valeur propres
 s2b <- svd(cov(dat2b))
 barplot(s2b$d)
@@ -304,14 +304,14 @@ proj2 <- dat2b%*%s2b$u
 Joking it's actually just doing a PCA (by hand, not sure why) and extracting the variance per dimensions
 
 
-```{r, eval = FALSE}
+```
 ## Doing the PCA
 pca <- prcomp(data)
 ```
 
 > Note that here we can also skip the scaling step by just using the option `scale = TRUE` in `prcomp`.
 
-```{r, eval = FALSE}
+```
 ## Get the cumulative variance per dimensions
 pca.var.dim <- function(pca) {
     variances <- apply(pca$x, 2, var)
@@ -325,7 +325,7 @@ pca.var.dim <- function(pca) {
 And the last bit is about plotting the results.
 We can skip this for now.
 
-```{r, eval = FALSE}
+```
 plot(proj2[,1:2], pch = 21, bg = (1:16)[as.factor(as.character(dat2[,1]))])
 ```
 
@@ -333,7 +333,7 @@ plot(proj2[,1:2], pch = 21, bg = (1:16)[as.factor(as.character(dat2[,1]))])
 
 We can now merge all these functions in a way that makes sense:
 
-```{r, eval = FALSE}
+```
 ## Select some columns
 new_data <- subset.data(data, columns)
 
@@ -351,7 +351,7 @@ plot(pca$x[,c(1,2)], pch = 21)
 But remember, we want to do that multiple times to different datasets!
 Let's just finally functionalise the whole pipeline:
 
-```{r, eval = FALSE}
+```
 ## Run a PCA with no NAs on specific columns
 run.pca.with.no.na <- function(columns, data) {
     ## Select columns
@@ -367,7 +367,7 @@ run.pca.with.no.na <- function(columns, data) {
 
 And just rewrite our whole script like this:
 
-```{r, eval = FALSE}
+```
 ## First set
 columns <- c(5:8,11,16,17)
 first_pca <- run.pca.with.no.na(columns, data)
@@ -383,7 +383,7 @@ third_pca <- run.pca.with.no.na(columns, data)
 
 Note here we could just run this in a loop if we create a list of columns:
 
-```{r, eval = FALSE}
+```
 ## List of columns
 list_of_columns <- list(first_set  = c(5:8,11,16,17),
                         second_set = c(5:8,11,13,16,17,18),
@@ -406,7 +406,7 @@ Oh but wait...
 Again, once you have the logic, you can easily forget about `for` loops, we've seen how to use `apply` for matrices.
 Well there's an even easier function for lists: `lapply`:
 
-```{r, eval = FALSE} 
+```
 ## Running the whole script in one line:
 list_of_pcas <- lapply(list_of_columns, run.pca.with.no.na, data)
 ```
